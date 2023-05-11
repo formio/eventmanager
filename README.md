@@ -1,3 +1,13 @@
+## This repository is now considered legacy and no longer supported. If you are interested in creating a new application, please go to https://help.form.io/intro/application
+
+## Please take a look at our recent repositories and help documentation at the following links.
+ - https://help.form.io
+ - https://github.com/formio/formio.js
+ - https://github.com/formio/formio
+ - https://github.com/formio/react
+ - https://github.com/formio/angular
+ - https://github.com/formio/vue
+
 # Eventmanager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
